@@ -1,6 +1,6 @@
 # Project-1: Comparative-Analysis-of-Federated-and-Non-federated-CNN-for-Image-Classification
 
-## Federated learning allows multiple parties to train
+Federated learning allows multiple parties to train
 a machine learning model collaboratively without sharing their
 local data. Handling the heterogeneity of local data distribution
 across parties is a crucial challenge in federated learning.
